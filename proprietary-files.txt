@@ -1407,7 +1407,7 @@ vendor/lib/libqmi_client_qmux.so|bf02a589b6530e3abba6c340e50b67fadfd26708
 vendor/lib/libqmi_common_so.so|8a6ca528e355675a5117264ea92f7574570ff375
 vendor/lib/libqmi_csi.so|aede7e8511d6b9500b64445621e3a8756509e9b2
 vendor/lib/libqmi_encdec.so|ffcfbaeb676e332e63b61402bf711fa7208928a3
-vendor/lib/libqmiservices.so|c4bda33c9c4a364155443734f7a8a7bdad462110
+-vendor/lib/libqmiservices.so|c4bda33c9c4a364155443734f7a8a7bdad462110
 vendor/lib64/libdsutils.so|138ce8b96e20097bf321badbeb532fa9005b6c3d
 vendor/lib64/libidl.so|485534cc8019d0a07b89b997fbf2eb88db29190f
 vendor/lib64/libmdmdetect.so|7d9594eaa6da36b1cf7a7f9ca9447c568dcb2f38
@@ -1424,7 +1424,7 @@ vendor/lib64/libqmi_common_so.so|13364998f37a22ed9b526af9afe899ba27ea8150
 vendor/lib64/libqmi_csi.so|28b7dd8906c028af98500bbab2e912d16fab455f
 vendor/lib64/libqmi_encdec.so|acfff1a63cbf216f7349e55668bef9d4eb2e1f00
 vendor/lib64/libqmi_legacy.so|f7fe22113d12d9992b876ea59bd1aa4042cc587b
-vendor/lib64/libqmiservices.so|7b5f68211fd577f4e2ae83bba4b54d2a436a226c
+-vendor/lib64/libqmiservices.so|7b5f68211fd577f4e2ae83bba4b54d2a436a226c
 
 # QMI (diag) - from LA.UM.9.6.2.r1-03600-89xx.0
 system_ext/lib/libdiag_system.so|124a1c5adba3f6a36f7a73e028477518c4675a5f
@@ -1650,7 +1650,7 @@ vendor/etc/init/init.time_daemon.rc|b253ca2a498757e14e1d7a051bf504ae09218f51
 vendor/lib64/libtime_genoff.so|3f57de1aeb7aa113a0a579cebed85ab4405b9b49
 
 # Wi-Fi - from LA.UM.9.6.2.r1-03600-89xx.0
-vendor/bin/wcnss_service|9bc92b389a66d2b35aae42a0d5e4d8192ed0bd0c
+vendor/bin/wcnss_service|94d0c8e45a512444583212ee6aafdfe5c8203ab9
 
 # WFD - from LA.UM.9.6.2.r1-03300-89xx.0
 bin/wfdservice|96a583c0efeaf90352b26c20c904ee156238b90f
